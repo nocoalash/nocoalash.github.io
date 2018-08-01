@@ -1,3 +1,4 @@
-# Nocoalash
+# CCACAD - nocoalash.org
 
-Oops!  There is a problem.
+This site is hosted on Github Pages.
+If you are seeing this, there has been an error.

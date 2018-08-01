@@ -8,8 +8,8 @@ import {UnderConstructionComponent} from './under-construction/under-constructio
 
 const appRoutes: Routes = [
   {path: '', component: UnderConstructionComponent },
-  {path: 'nocoalash/not-found', component: PageNotFoundComponent },
-  {path: '**', redirectTo: '/nocoalash/not-found'}
+  {path: 'not-found', component: PageNotFoundComponent },
+  {path: '**', redirectTo: '/not-found'}
 ];
 
 @NgModule({
